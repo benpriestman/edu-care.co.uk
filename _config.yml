@@ -13,7 +13,7 @@ kramdown:
 # site settings
 site: "https://benpriestman.github.io"
 baseurl: "/edu-care.co.uk"
-source: .
+source: "./content"
 # end site settings
 
 # Plugins
@@ -31,6 +31,7 @@ plugins:
   # end default plugins
 
 # theme settings
+ToDo: pick a decent remote theme
 theme: minima
 defaults:
   - scope:
